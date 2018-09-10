@@ -10,7 +10,7 @@ This command install the cli manginx :
 $ npm install -g @manginx/cli 
 ```
 
-After that, you must has the binary `manginx` in your path.
+After that, you must has the binary `nginx` in your path.
 
 You can test it with `manginx -v` which display the version of manginx. 
 
